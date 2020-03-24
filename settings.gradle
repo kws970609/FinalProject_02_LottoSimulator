@@ -1,0 +1,2 @@
+rootProject.name='FinalProject_02_LottoSimulator'
+include ':app'
